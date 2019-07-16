@@ -1,13 +1,13 @@
 [github-badge]: https://img.shields.io/badge/github--blue.svg?style=social&logo=github
-[github-link]: https://github.com/2357gi/
+[github-link]: https://github.com/hyo07/
 [facebook-badge]: https://img.shields.io/badge/facebook--blue.svg?style=social&logo=facebook
-[facebook-link]: https://facebook.com/2357gi/
+[facebook-link]: https://facebook.com/yutaka727/
 [qiita-badge]: https://img.shields.io/badge/qiita--green.svg?style=social&logo=qiita
-[qiita-link]: https://qiita.com/2357gi/
+[qiita-link]: https://qiita.com/hyo_07/
 [wantedly-badge]: https://img.shields.io/badge/wantedly--blue.svg?style=social&logo=wikipedia
-[wantedly-link]: https://www.wantedly.com/users/73079377
+[wantedly-link]: https://www.wantedly.com/users/77358513
 [twitter-badge]: https://img.shields.io/badge/twitter--blue.svg?style=social&logo=twitter
-[twitter-link]: https://twitter.com/2357gi
+[twitter-link]: https://twitter.com/hyo_07
 
 
 
@@ -17,24 +17,25 @@
 # 履歴書
 ## 目次
 
-- [基本情報](https://github.com/2357gi/Readme/blob/master/readme.md#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
-- [スキル](https://github.com/2357gi/Readme/blob/master/readme.md#%E3%82%B9%E3%82%AD%E3%83%AB)
-  - [言語](https://github.com/2357gi/Readme/blob/master/readme.md#%E8%A8%80%E8%AA%9E)
-  - [フレームワーク](https://github.com/2357gi/Readme/blob/master/readme.md#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF)
-  - [OS](https://github.com/2357gi/Readme/blob/master/readme.md#os)
-  - [開発ツール ・ 開発環境](https://github.com/2357gi/Readme/blob/master/readme.md#%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB%E7%92%B0%E5%A2%83)
-- [経歴](https://github.com/2357gi/Readme/blob/master/readme.md#%E7%B5%8C%E6%AD%B4)
-- [就活の軸](https://github.com/2357gi/Readme/blob/master/readme.md#%E5%B0%B1%E6%B4%BB%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%AE%E8%BB%B8)
-- [成果物](https://github.com/2357gi/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
-- [自己PR](https://github.com/2357gi/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
+- [基本情報](https://github.com/hyo07/Readme/blob/master/readme.md#%E5%9F%BA%E6%9C%AC%E6%83%85%E5%A0%B1)
+- [スキル](https://github.com/hyo07/Readme/blob/master/readme.md#%E3%82%B9%E3%82%AD%E3%83%AB)
+  - [言語](https://github.com/hyo07/Readme/blob/master/readme.md#%E8%A8%80%E8%AA%9E)
+  - [フレームワーク](https://github.com/hyo07/Readme/blob/master/readme.md#%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF)
+  - [OS](https://github.com/hyo07/Readme/blob/master/readme.md#os)
+  - [開発ツール ・ 開発環境](https://github.com/hyo07/Readme/blob/master/readme.md#%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB%E7%92%B0%E5%A2%83)
+- [経歴](https://github.com/hyo07/Readme/blob/master/readme.md#%E7%B5%8C%E6%AD%B4)
+- [就活の軸](https://github.com/hyo07/Readme/blob/master/readme.md#%E5%B0%B1%E6%B4%BB%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%AE%E8%BB%B8)
+- [成果物](https://github.com/hyo07/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
+- [自己PR](https://github.com/hyo07/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
 ## 基本情報
 
-大木建人 Kento Ohgi  
-2357.gi@gmail.com  
+加藤豊 Yutaka Kato  
+yutaka727kato@gmail.com  
+[個人HP兼ブログサイト](https://hyo-tech.netlify.com/)  
 
 [![][github-badge]][github-link] [![][facebook-badge]][facebook-link] [![][qiita-badge]][qiita-link] [![][wantedly-badge]][wantedly-link] [![][twitter-badge]][twitter-link]
 
-[自己紹介スライド](https://docs.google.com/presentation/d/17tY8Bkz5Sr5He3evzst6DPywGBPyoLHOyEsvBLKvTDg/mobilepresent?slide=id.p)
+[]([自己紹介スライド](https://docs.google.com/presentation/d/17tY8Bkz5Sr5He3evzst6DPywGBPyoLHOyEsvBLKvTDg/mobilepresent?slide=id.p))
 
 ## スキル
 
@@ -42,80 +43,65 @@
 
 |言語|期間|備考|
 |:-----------|:-----------|------------:|
-|C, C++|1年|大学の授業で触った程度|
 |Python|1年|後述|
-|Ruby|  | 後述|
-|HTML, JavaScript, CSS| | 後述|
-|scala||
-|golang||
-|node.js||
+|Go| | 後述|
+|HTML, CSS| | 後述|
+|Ruby| | Progate, Railsチュートリアル|
+|Rust| | チューリアル実施中|
+|javascript| |progate|
 
-#### プログラミングについて
-プログラミング歴が浅く、今までフレームワーク等を用いた実装が多かったので**プログラミング能力**自体は高くはない  
-小学生の頃からパソコンが友達だったため、**知らないものを調べてつかえるようにする**という能力は高かく  
-今までなんとかなってきたが、何とかならなかった経験をし、  
-現在プログラミング能力を高めようとAtcoder等 教プロに本格的に取り組み始める。
+#### プログラミング全般について
+2017年に大学での講義でC++に折れたものの、2018年春ごろに暇すぎたことから趣味として少しずつ触り始め、
+ハマり、機械学習→webアプリ開発→ブロックチェーンの研究と、
+良く言えば色々なことに挑戦し、悪く言えば何かとブレながらPythonをメインに使っている。  
+大学は修士に進学予定で、先ほど述べた通りブロックチェーンの研究をしている。  
+研究と並行してwebアプリ開発のサーバーサイドをメインに勉強をしている。インターン・学生バイトなどで実務経験を積みたいと強く思うものの、
+Pythonばかり使っている弊害もあり、エントリー時点で難航中。  
+
 
 #### Python
-プログラミングを勉強するときに、どの言語が良いか迷った末、
-周りに推されたので学んだ。
-その後、機械学習に興味を持ち本格的に勉強。
-インデントで範囲指定だったり動的型付けだったり書きやすく好き。
+酷いくらいに暇だった大３年生の前の春休み。所属していた（かつ元代表）e-sports関連のサークルの先輩からProgateを勧められ、
+かつ「AI」という文字面に惹かれてPythonの勉強をスタート。  
+その後は機械学習に少し触れたあと、冬になりweb開発に興味を持ち、Django/Flaskの勉強を開始し、簡単なアプリ開発に挑戦。  
+研究室もPythonをメインにしていたため、ブロックチェーンの研究もPythonで行い、初めてのwebサービスもPython/Flaskを用いて開発・公開に至る。  
 
-インターン中にPythonのWeb Framework Djangoを用いたほか、
-データ分析や強化学習、レコメンドエンジンの実装の際にも用いている。
-
-#### Golang
-pythonを触り動的言語の感覚を掴んだ後型付き言語を触り感動。  
-下手なものを書くとコンパイルだったりLintだったりで弾いてくれるので好き。  
-shellscriptとは違って書き方に個人差が現れにくくてとても好き。  
-生成物がバイナリファイルで実行用dockerをメチャクチャ小さくできて幸せ  
+#### Go
+就活の時期に入りPythonだけだと弱い。という言葉を受け、静的言語にも興味があったため、ホットなGoに挑戦。  
+公式チュートリアルやUdemyなどで勉強をしつつ、Ginを用いて簡単なTodoアプリを制作（簡単なTodoアプリを作りがち）。  
+また、それについてQiitaに記事を投稿したところ、２００近い「いいね」を貰い、アウトプットの喜びを感じる。   
 
 
-#### HTML, JavaScript, CSS
-ちょっとしかできないのでもう少し強くなりたい
+#### HTML, CSS
+後述するwebサービスに利用。描画はできているものの、書き方は汚い。という状態になっていると思われる。  
 
-#### scala
-コンパイルがアホほど遅いけどできたものは早いのでちょっと好き
+### Ruby
+ProgateとRailsチュートリアルを一周した程度。エントリーしたインターンで使うよ！と言われて勉強したものの、色々あってその話はなくなってしまった。  
 
-#### node.js
-ちょこっとサーバー立てるのに使っただけなのであまりよく分かっていない
+### Rust
+ブロックチェーンの研究関連で使う「かも」しれない。ということで、少しづつではあるが勉強を開始した。  
 
 
 ### フレームワーク
 
 |名前|期間|備考|
 |:--------|:--------|:--------|
-|Django|1年未満|インターンにて使用|
-|TensorFlow|一年未満||
-|Keras||
-|Google Cloud Platform|インターンにて使用|
-|Ruby on Rails|一ヶ月未満||
-|spark||internにて使用|
-|Vue.js||
+|Django|1年未満||
+|Flask|1年未満|webサービスに利用|
+|Ruby on Rails|一ヶ月未満|Railsチュートリアル|
+|Gin| |Qiitaに記事投稿|
 
-
-
-### Vue.js
-Todo作ったりインターン中実務で使ったり
-
-#### Ruby
-研究室のユーティリティアプリを作製するために使用。
-Ruby on railsを用いた出席情報管理webアプリを作成した。
 
 ---
 ### OS
 |名前|期間|備考|
 |:-----------|:-----------|------------:|
-|Windows|12年||
-|Linux|2年|MintOS, Ubuntu|
-|Darwin|半年ぐらい| |
+|Windows|10年||
+|Linux|1年|Ubuntu|
+|Mac|1年弱| |
 
-#### Linux
-小学生か中学生の頃漫画「ブラッディ・マンディ」に影響されOSをUSBからブートしたくなり、勉強。  
-当時はUSBからブートしLinuxではゲームも何もできないことに気づきそこで終了。検索能力はその頃からインターネットを触ることによって身につけた。  
-大学生の頃、友人からWindows入りのMacBookモドキを譲り受け、Windowsのあまりにもの動かなさからLinuxを導入する。  
-mintOSをメインの開発環境とししばらく開発を行ったのち、インターン先で触ったMacbookの虜になりmacbookを購入。  
+#### Mac  
+プログラミングを初めて半年ほど、Windowsをずっと使っていたが、周りの友人がMacに続々と乗り換え、
+またノートPCも欲しいと思っていたため、思い切って購入。  
 
 
 
@@ -123,38 +109,18 @@ mintOSをメインの開発環境とししばらく開発を行ったのち、�
 ### 開発ツール・環境
 |名前|期間|
 |:--------|:--------|
-|vim|一年|
-|Docker|一年未満|
-|k8s||
+|Docker|１ヶ月|
 |git, github|一年未満|
-|ansible||
-|nginx||
-|AWS||
-|GCP||
-|spark||
+|GCP|２ヶ月|
 
-#### 開発スタイル
-インターンにてbacklogを用い、
-学生チームでの共同開発のときに際してgithubを用いた。  
-ともにPRやコードレビューなどを使用した形でのチーム開発であった。  
-gitはとても便利で美しい仕組みなので研究室の仲間に布教したりしている。
-
-#### AWS
-railsで作成したアプリをEC2上にnginxとunicornを用いてデプロイ。  
-その他インターンにてEMR, S3, ElastiCacheを用いてレコメンドシステム構築。  
-仕様したことのあるもの:  
-EC2, route52, ACM, ELB, SMS, S3, CloudFront, EMR
 
 #### GCP
-GCEをちょこっと使って遊んだ。
-GKEを使ってちょこっと遊んだ。
+後述する、webサービスにて使用。  
+GAE、Cloud Functions, Cloud SQL などを使用。  
 
-#### ansible, docker, k8s
-dockerが好き  
-ansibleが好きだったが最近はdockerでいいじゃんというお気持ち。  
-ポータブルなものが好きで昔からUSBにブラウザ入れたりgimp入れたりして喜んでいた。  
-そんな人間だったのでdockerに出会い惚れる。好き。  
-k8s好き 生半可な気持ちで導入してはいけない(戒め)  
+#### docker
+研究の中で利用。  
+docker-composeも少々であるが利用。  
 
 
 
@@ -162,99 +128,72 @@ k8s好き 生半可な気持ちで導入してはいけない(戒め)
 ### 学歴
 |年|月|備考|
 |:--------|:--------|:--------|
-|2013|3|甲斐市立竜王中学校 卒業|
-|2013|4|山梨県立甲府昭和高等学校　入学|
-|2016|3|山梨県立甲府昭和高等学校　卒業|
-|2016|4|私立千葉工業大学 工学部 情報通信システム工学科　入学|
+|2013|3|私立 昭和学院秀英中学校 卒業|
+|2013|4|私立 昭和学院秀英高等学校  入学|
+|2016|3|私立 昭和学院秀英高等学校  卒業|
+|2016|4|私立千葉工業大学 工学部 情報通信システム工学科  入学|
+|2020|3|私立千葉工業大学 工学部 情報通信システム工学科 卒業予定|
+|2020|4|私立千葉工業大学 大学院 情報通信システム専攻  入学予定|
 
 ### 職歴
-|年|月|備考|
-|:--------|:--------|:--------|
-|2018|8|株式会社TORICO インターン開始|
-|2018|9|株式会社TORICO インターン終了|
-|2019|1|株式会社TORICO 再びインターン開始|
-|2019|3|株式会社TORICO インターン終了|
-#### 株式会社TORICO様でのインターンシップ
-長期インターンシップをさせていただき、そこでDjangoを用いたWEBサービスの機能追加改善を行った。  
-また、データ分析をやりたいとしていたので、アンケートのデータ分析もさせていただいた。  
-テキストデータの多いアンケートだったので形態素解析を掛け分析を行おうと考えたのだが  
-WEBサービス特有のキーワードで見るために自前でコードを用意しそのコメントがどの機能に関して言及しているのか、  
-またどのような感情を抱いているのかをgcpの言語感情解析APIを用いて診断、分析を行った。
-
-#### 株式会社TORICO様でのインターンシップ(2度目)
-長期休みを利用して2019年1月末から再びJoin。vue.jsを用いてwebアプリの機能改善を行った後、
-hadoop, sparkを用いて自社サービスレコメンドシステムのプロトタイプの開発を行った。(成果物の欄に詳細あり)
+無し。  
+様々なインターン・学生バイトに申し込むも、Pythonをメインということから採用まで到らなかったり、突然連絡が付かなくなったりと非常に難航。  
 
 
-## 就活においての軸
-- 自社サービスを開発していて、自社サービスで会社が成り立っている会社
-- エンジニアが企画から運用まで携わることのできる会社
-- フロントやサーバーサイドといった括りを越えて携わることのできる会社
-- エンジニアが勉強する環境が整っている(AWSやGCPの有料枠を使用することができたり、など)
-- 活発に勉強会が行われている、突発勉強会がよく起こる等そういった空気がある
-- いろいろな技術をキャッチアップ会社
+## 大学・大学院での研究
+### 研究室
+藤原明広教授の研究室に所属。  
+研究室全体の専門としては人の移動・行動分析。  
+
+### 研究
+研究テーマは、「ブロックチェーンを用いた公共交通の遅延証明」で、[東京公共交通オープンデータチャレンジ](https://tokyochallenge.odpt.org/)にて公開されている、
+バスや電車のリアルタイムデータを用いた遅延の証明の研究を行なっています。  
+Pythonを用いて手元でブロックチェーンを構築しています。  
+
 
 ## 成果物
-### 研究室の入退室管理System
-大学の研究室の入退室管理Systemの作成。  
-Railsが書ける友人がいたのでメンターになってもらい、  
-master-staging-devbranchsといったブランチや  
-プルリク、コードレビュー、issueと言った実際の開発手法に則った方式で丁寧な開発を行った。   
-また、実際の入退室検知にはラズパイを用いてMacアドレスの監視を行い、  
-railsにRESTapiを投げるといった方式を行った。   
-私はプロトタイプの作成やコードレビュー、そしてインフラをメインに担当した。  
+### [にじったー](https://nijitter.com/)
+[いちから株式会社](https://www.ichikara.co.jp/)が運営する、Vtuber/バーチャライバープロジェクトの[にじさんじ](https://nijisanji.ichikara.co.jp/)
+の所属メンバー同士のTwitter上でのコミュニケーションを抽出し、可視化を行なったサービスです。  
+  
+Vtuberという文化は2017年から盛んになっていき、youtubeでの活動はもちろん、Twitterの利用も盛んです。  
+しかし、Twitterにはリスト機能があるものの、リストに登録されているユーザーのツイートは流れていくだけで、ユーザー同士のリプライによるコミュニケーションは追いづらいという問題があります。  
+そこで、好みのユーザー同士のTwitterでのやりとりを抽出し、まるでチャットのようにコミュニケーションを行なっているように見えるサービスを作りたいと思いました。  
+  
+しかし、サービス利用者が好みのユーザーを選び、そのユーザー達のツイートを集める。という動きは難しいと感じ、
+70人以上が所属していることからTwitter上でのやりとりが盛んで、追い切るのも難しい。また私個人が好きであるということから、にじさんじさんを題材として選ばせていただきました。  
 
-これからも研究室内のwebサービスがいくつも立ち上がるので,  
-いい感じのインフラを考えたい。  
+サービスとして出来ることとしては、Twitterにもあるリスト機能に加えて、所属タレント同士のリプライを、チャットのようにツリー状に可視化。  
+また、ツリー状にコミュニケーションが行われているもののみの抽出。加えてタレントごとのフィルタリング。日付検索機能などです。  
+さらに、宣伝活動としての意味を込めて、Twitter BOT機能を実装し、定期的に過去のコミュニケーションを紹介するbotを制作しました(Twitter: [@niji_tter](https://twitter.com/niji_tter))。  
 
-強い人とお話がしたい。  
-
-使用技術: Ruby(ruby on rails)/RESTapi/AWS/nginx/python(raspi)
-system図
-![fujihalab-system](./fujihalab-system.png)
-
-### レコメンドシステムの開発
-現在株式会社TORICOにてレコメンドシステムのプロトタイプを開発中。   
-Djangoで動く漫画読み放題サービス内にajaxで送信を行うユーザートラッキングコードを仕込み  
-node.jsとmongodbで構成するTracking Serverへ格納。  
-そしてEMR上で動くSparkによりレコメンドモデルを作成、予想。  
-結果をRedisに保存し外から呼び出せるようにするシステム。
-sparkの運用や初めて触る技術が多く手間取ってしまったため実運用できるものは完成しなかったが、
-一通りレコメンドモデルを生成し、予測を行い、評価し、redisに取り出しやすいように収めるという一連の流れは作ることができた。
-
-
-使用技術 :Spark/Pyspark/nodejs/mongodb/EC2/EMR/Redis ElastiCache/S3
+課題として、DB全てを何度も検索していることから非常に重いこと。またGCPのCloud SQLが有料であることなどから、無料枠から外れてしまうこと。などがあります。  
+また、TwitterAPIが検索では過去１週間、各個人に対しては過去3200ツイートまでしかデータを取れないことから、これに対するアプローチを大学での研究を行なっています。  
+  
+使用技術 :Python / Flask / GCP / TwitterAPI  
 
 ### その他成果物
-[Wantedly - 2357gi](https://www.wantedly.com/users/73079377)
-こちらの#成果物 の欄に纏まっています。
+[Wantedly - hyo07](https://www.wantedly.com/users/77358513)  
+こちらの#成果物 の欄に纏まっています。  
 
 
 ## 執筆歴
-- [お前らのTouch Barはダサい - Qiita](https://qiita.com/2357gi/items/8235093de77aa3e5fecc)
+- [Go / Gin で超簡単なWebアプリを作る - Qiita](https://qiita.com/hyo_07/items/59c093dda143325b1859)  
 
-Macbookproに買い替え、あまりにものTouch Barの使いにくさと同じようなことを思っているだろう人が多いと思い、記事を書いた。  
-400いいねを超え、多くの人に読んでもらうことができた。  
-
-- [情報通信システム工学科 Advent Calendar 2018 - Qiita](https://qiita.com/advent-calendar/2018/ics2018)
-大学の学科のアドベントカレンダー。  
-私一人になっても絶対にすべて埋めてやるぞというお気持ち。  
+Goを勉強していく中で、Ginというフレームワークが利用されていることが多いと知り、CRUDのみを実装した簡単なTodoアプリを制作しました。  
+そして、Qiitaで調べたところ、このような記事は意外となく需要があるかもしれない。と思い記事を投稿したところ200近い「いいね」をいただき、
+とにかくアウトプットするとうことの価値と、喜びを知りました。  
+  
+また、友人達と作った[情報通信システム工学科 Advent Calendar 2018](https://qiita.com/advent-calendar/2018/ics2018)を埋めよう。という意味でも投稿をしました。  
 
 ##  趣味
-- スノーボード
-- 映画鑑賞(インターステラー, インセプション, ゴールデンスランバー, バトルシップ)
-- dotfiles弄り
-- 自動化
+- e-sports
+- Vtuber
+- 読書（ネット小説）
+- ベース
 
 ## 自己PR
-- やりたいことを自分で見つけ、勉強していく人間です。
-- アウトプットを重要視しており、積極的に行っています。
-- 新しいこと、物を能動的に取り込み、便利なもの、事を皆に使って貰えるようにするのが好きです。
-- コミュニケーション能力が高いです。
-
-
-
-## 補足
-### このReadmeの歩き方
-何かを初めたりしたら逐一追記するようにしているので、  　
-いつ頃何があったのかが見れて楽しい。
+- 技術よりも、技術を使ってできること。目的を主軸に置く考えを持っている
+- プログラミングに限らず、あらゆる行動のパターン化・効率化が得意
+- 初対面の人とも気軽に話すことができる
+- ヒトを見ることが非常に好きで、得意だとも思う
