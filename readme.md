@@ -26,7 +26,7 @@
 - [経歴](https://github.com/hyo07/Readme/blob/master/readme.md#%E7%B5%8C%E6%AD%B4)
 - [大学での研究](https://github.com/hyo07/Readme/blob/master/readme.md#%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6)
 - [成果物](https://github.com/hyo07/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
-- [自己PR](https://github.com/hyo07/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
+- [自己PR](https://github.com/hyo07/Readme/blob/master/readme.md#%E8%87%AA%E5%B7%B1pr)
 ## 基本情報
 
 加藤豊 Yutaka Kato  
