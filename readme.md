@@ -24,7 +24,7 @@
   - [OS](https://github.com/hyo07/Readme/blob/master/readme.md#os)
   - [開発ツール ・ 開発環境](https://github.com/hyo07/Readme/blob/master/readme.md#%E9%96%8B%E7%99%BA%E3%83%84%E3%83%BC%E3%83%AB%E7%92%B0%E5%A2%83)
 - [経歴](https://github.com/hyo07/Readme/blob/master/readme.md#%E7%B5%8C%E6%AD%B4)
-- [就活の軸](https://github.com/hyo07/Readme/blob/master/readme.md#%E5%B0%B1%E6%B4%BB%E3%81%AB%E3%81%8A%E3%81%84%E3%81%A6%E3%81%AE%E8%BB%B8)
+- [大学での研究](https://github.com/hyo07/Readme/blob/master/readme.md#%E5%A4%A7%E5%AD%A6%E5%A4%A7%E5%AD%A6%E9%99%A2%E3%81%A7%E3%81%AE%E7%A0%94%E7%A9%B6)
 - [成果物](https://github.com/hyo07/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
 - [自己PR](https://github.com/hyo07/Readme/blob/master/readme.md#%E6%88%90%E6%9E%9C%E7%89%A9)
 ## 基本情報
